@@ -515,6 +515,18 @@
     [
       "66225d13-410c-4182-8e7e-33506c71e2e4",
       "PSU_TPS63070RNMR"
+    ],
+    [
+      "c6177953-2b5d-4464-aaa8-66a87e9974f4",
+      "RS485 Transceiver"
+    ],
+    [
+      "743d5123-2845-4af0-b3c0-059290748336",
+      "RS485 Transceiver1"
+    ],
+    [
+      "23c7a7a3-1222-4766-b2ae-5fddbf95bb0b",
+      "RS485 Transceiver2"
     ]
   ],
   "text_variables": {}
