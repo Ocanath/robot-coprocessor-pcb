@@ -13,5 +13,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 45bb6079-ba34-49ec-a675-35a555a6b7aa)
   )
+  (fp_circle (center 0 0) (end 0.6 -0.8)
+    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp a7f5e144-ed50-47a3-8afb-a27f701cef53))
   (pad "1" smd circle (at 0 0) (size 2 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f8ae1e31-7abe-421c-a8e7-6822c75606e3))
 )
