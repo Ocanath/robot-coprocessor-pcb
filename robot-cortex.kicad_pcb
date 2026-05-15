@@ -4269,7 +4269,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 5c26e543-52d0-4e45-ab86-f3f35ec43d6a)
     )
-    (fp_text value "SS8050-G" (at 0 -2.4 90) (layer "B.Fab") hide
+    (fp_text value "SSM3K15F,LF" (at 0 -2.4 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c124f0a5-6233-49c6-b6dc-831a50beeed1)
     )

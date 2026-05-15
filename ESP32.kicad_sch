@@ -1870,7 +1870,7 @@
     (property "Reference" "Q2" (at 243.205 85.725 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "SS8050-G" (at 227.33 92.71 0)
+    (property "Value" "SSM3K15F,LF" (at 227.33 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "robot-cortex:SOT-23-3" (at 232.41 85.09 0)
