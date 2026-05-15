@@ -4369,7 +4369,7 @@
     (property "Arrow Price/Stock" "")
     (property "Height" "1")
     (property "Manufacturer_Name" "Texas Instruments")
-    (property "Manufacturer_Part_Number" "THVD2410VDRCR")
+    (property "Manufacturer_Part_Number" "THVD2450VDRCR")
     (property "Mouser Part Number" "595-THVD2410VDRCR")
     (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/THVD2410VDRCR?qs=Jm2GQyTW%2FbhjNqkbRGOzgg%3D%3D")
     (property "Sheetfile" "RS485-Transceiver.kicad_sch")
@@ -4380,7 +4380,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify mirror))
       (tstamp 4faa50ef-e4db-42be-b015-eb8ec8a5d6ac)
     )
-    (fp_text value "THVD2410VDRCR" (at 0 -2.54 90) (layer "B.SilkS") hide
+    (fp_text value "THVD2450VDRCR" (at 0 -2.54 90) (layer "B.SilkS") hide
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify mirror))
       (tstamp 9201b5f8-42e9-4833-968d-099c89367360)
     )
@@ -4520,7 +4520,7 @@
     (property "Arrow Price/Stock" "")
     (property "Height" "1")
     (property "Manufacturer_Name" "Texas Instruments")
-    (property "Manufacturer_Part_Number" "THVD2410VDRCR")
+    (property "Manufacturer_Part_Number" "THVD2450VDRCR")
     (property "Mouser Part Number" "595-THVD2410VDRCR")
     (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/THVD2410VDRCR?qs=Jm2GQyTW%2FbhjNqkbRGOzgg%3D%3D")
     (property "Sheetfile" "RS485-Transceiver.kicad_sch")
@@ -4531,7 +4531,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify mirror))
       (tstamp 04ea066d-f37b-41e0-b2d3-f96123f096c6)
     )
-    (fp_text value "THVD2410VDRCR" (at 0 -2.54 90) (layer "B.SilkS") hide
+    (fp_text value "THVD2450VDRCR" (at 0 -2.54 90) (layer "B.SilkS") hide
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify mirror))
       (tstamp 3d314c0c-7aa1-4a27-a732-1b08203a94d8)
     )
@@ -5822,7 +5822,7 @@
     (property "Arrow Price/Stock" "")
     (property "Height" "1")
     (property "Manufacturer_Name" "Texas Instruments")
-    (property "Manufacturer_Part_Number" "THVD2410VDRCR")
+    (property "Manufacturer_Part_Number" "THVD2450VDRCR")
     (property "Mouser Part Number" "595-THVD2410VDRCR")
     (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/THVD2410VDRCR?qs=Jm2GQyTW%2FbhjNqkbRGOzgg%3D%3D")
     (property "Sheetfile" "RS485-Transceiver.kicad_sch")
@@ -5833,7 +5833,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify mirror))
       (tstamp 86237a96-dfb1-4fbf-ba30-7faa77c67790)
     )
-    (fp_text value "THVD2410VDRCR" (at 0 -2.54 90) (layer "B.SilkS") hide
+    (fp_text value "THVD2450VDRCR" (at 0 -2.54 90) (layer "B.SilkS") hide
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify mirror))
       (tstamp bc1aeeaf-7348-4839-88dc-f7279ffd6547)
     )
