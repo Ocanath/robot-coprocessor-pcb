@@ -284,7 +284,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fce9fe35-adb9-4930-ae5f-7522c6e39693)
     )
-    (fp_text value "C84264" (at 0 1.43) (layer "F.Fab")
+    (fp_text value "150060GS84000" (at 0 1.43) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 78af9965-5299-442b-8cad-0234734fc75e)
     )
@@ -339,7 +339,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 23e78189-fc42-47f8-b2d7-525fb4e00e8d)
     )
-    (fp_text value "10uF " (at 0 1.43) (layer "F.Fab") hide
+    (fp_text value "10uF 0603 " (at 0 1.43) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f70766b8-c9f0-4684-af90-1847c71b811a)
     )
@@ -400,7 +400,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6c45bf3a-7a73-4b27-b858-332e85c43a04)
     )
-    (fp_text value "10uF " (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "10uF 0603 " (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0c4f8e97-c75c-4ff1-b4ae-4fb4d2dd7a9c)
     )
@@ -558,6 +558,7 @@
     (tags "capacitor")
     (property "Sheetfile" "robot-cortex.kicad_sch")
     (property "Sheetname" "")
+    (property "Voltage" "10V")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
     (path "/a771c516-5c2a-430f-9302-134f83d7e387")
@@ -566,7 +567,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bbf2bafd-a017-4da6-a860-4836d717c04b)
     )
-    (fp_text value "C2998534" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "10uF 0603" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9990d6b4-fafd-4e4c-862c-8799d4ee0df2)
     )
@@ -1082,7 +1083,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 01f875d9-4953-4a04-bae9-7070823bd6c8)
     )
-    (fp_text value "10uF " (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "10uF 0603 " (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4b022f72-4c73-4d77-b305-37382f5dd2b3)
     )
@@ -1496,7 +1497,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b9052aec-b512-435f-82f2-aee64d6022df)
     )
-    (fp_text value "10uF " (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "10uF 0603 " (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ffda3365-597f-4277-8c52-85fd2b73d86d)
     )
@@ -2098,7 +2099,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d055cbaf-2fa8-4ee2-a8d3-3f67ffbcc86a)
     )
-    (fp_text value "10uF " (at 0 1.43) (layer "F.Fab") hide
+    (fp_text value "10uF 0603 " (at 0 1.43) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dfe7873f-6160-4eed-934a-4b8d996655e1)
     )
@@ -2264,6 +2265,7 @@
     (tags "capacitor")
     (property "Sheetfile" "robot-cortex.kicad_sch")
     (property "Sheetname" "")
+    (property "Voltage" "10V")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
     (path "/e6d241de-b8aa-4fbc-ab3c-b23d2c7a32b3")
@@ -2272,7 +2274,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c40b7143-1675-4baa-8807-845ed53ff012)
     )
-    (fp_text value "C2998534" (at 0 1.43) (layer "F.Fab") hide
+    (fp_text value "10uF 0603" (at 0 1.43) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 48964f79-cd1c-4d89-958b-847771f91d84)
     )
@@ -2322,6 +2324,7 @@
     (tags "capacitor")
     (property "Sheetfile" "robot-cortex.kicad_sch")
     (property "Sheetname" "")
+    (property "Voltage" "10V")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
     (path "/755ef96d-6453-4274-adea-b6282dd2a6bd")
@@ -2330,7 +2333,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 80b1c042-4fc4-466a-878e-2e660a28ba58)
     )
-    (fp_text value "C2998534" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "10uF 0603" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8e0d4184-d89b-415e-bd9d-5aae760846d8)
     )
@@ -2389,7 +2392,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ae8a3eaf-0903-4323-af74-bcc767505f22)
     )
-    (fp_text value "C84264" (at 0 1.43) (layer "F.Fab")
+    (fp_text value "150060GS84000" (at 0 1.43) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 97731bdc-c61c-4d02-967a-b192dbaad047)
     )
@@ -2444,7 +2447,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8f502578-3943-4d9e-a0c6-974529b7fd1a)
     )
-    (fp_text value "10uF " (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "10uF 0603 " (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0ff4039e-284a-43cb-a313-d34071d08e1a)
     )
@@ -2505,7 +2508,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 107f98bc-3422-4947-a888-e0cb4a9b5bf9)
     )
-    (fp_text value "10uF " (at 0 1.43) (layer "F.Fab") hide
+    (fp_text value "10uF 0603 " (at 0 1.43) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c8294bf6-c59b-4659-abb4-2748228a24d6)
     )
@@ -2721,7 +2724,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a639a8ea-eb9d-49be-bb34-cd34d01cf1f8)
     )
-    (fp_text value "10uF " (at 0 1.43) (layer "F.Fab") hide
+    (fp_text value "10uF 0603 " (at 0 1.43) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e118beb8-baa6-4624-b4cc-1af1fcfe49e2)
     )
@@ -3566,6 +3569,7 @@
     (tags "capacitor")
     (property "Sheetfile" "robot-cortex.kicad_sch")
     (property "Sheetname" "")
+    (property "Voltage" "10V")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
     (path "/53344993-ba53-4b66-8f7d-0c14ac6f7303")
@@ -3574,7 +3578,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 19268133-d832-43c7-a168-fe24267973dd)
     )
-    (fp_text value "C2998534" (at 0 -1.43 90) (layer "B.Fab") hide
+    (fp_text value "10uF 0603" (at 0 -1.43 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 67b46a95-fd16-4c08-b6e1-099501a1ccd6)
     )
@@ -5394,6 +5398,7 @@
     (tags "capacitor")
     (property "Sheetfile" "robot-cortex.kicad_sch")
     (property "Sheetname" "")
+    (property "Voltage" "10V")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
     (path "/3608749f-cc46-4663-8aaa-b5ab3a7aba68")
@@ -5402,7 +5407,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b72e3da0-1829-4d52-b0d3-d3ba01dd0137)
     )
-    (fp_text value "C2998534" (at 0 -1.43) (layer "B.Fab") hide
+    (fp_text value "10uF 0603" (at 0 -1.43) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp a4a4357f-e4eb-4abc-b4f5-40e83bffed72)
     )
@@ -5918,6 +5923,7 @@
     (tags "capacitor")
     (property "Sheetfile" "robot-cortex.kicad_sch")
     (property "Sheetname" "")
+    (property "Voltage" "10V")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
     (path "/3adfa277-83d8-4422-ad0a-ceed5e159dc4")
@@ -5926,7 +5932,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp a880e17c-6b76-4e9f-824d-79870488fe7b)
     )
-    (fp_text value "C2998534" (at 0 -1.43) (layer "B.Fab") hide
+    (fp_text value "10uF 0603" (at 0 -1.43) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 353eb507-e6bc-4d87-a826-85a268c9eb4a)
     )
@@ -6035,6 +6041,7 @@
     (tags "capacitor")
     (property "Sheetfile" "robot-cortex.kicad_sch")
     (property "Sheetname" "")
+    (property "Voltage" "10V")
     (property "ki_description" "Unpolarized capacitor")
     (property "ki_keywords" "cap capacitor")
     (path "/7b53175f-be8a-46a5-9745-37a17b34723b")
@@ -6043,7 +6050,7 @@
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 595352e6-d791-497a-9e9c-12989fee9bd9)
     )
-    (fp_text value "C2998534" (at 0 -1.43 90) (layer "B.Fab") hide
+    (fp_text value "10uF 0603" (at 0 -1.43 90) (layer "B.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 67cc49a3-47a1-4778-b76b-0d273d19173d)
     )
